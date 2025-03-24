@@ -2,6 +2,7 @@
 # myrpackage
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/tiffanymtang/myrpackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/tiffanymtang/myrpackage/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of myrpackage is to ...
